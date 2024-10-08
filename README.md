@@ -8,7 +8,7 @@ I have worked on analyzing a dataset of over 20,000 sales records from an Amazon
 
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 
-An ERD diagram is included to visually represent the database schema and relationships between tables.
+An ERD(Entity-Relatitionship Diagram) diagram is included to visually represent the database schema and relationships between tables.
 
 
 ---
@@ -735,12 +735,6 @@ This project enabled me to:
 This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
-
----
-
-### **Entity Relationship Diagram (ERD)**
-
-![ERD]()
 
 ---
 
